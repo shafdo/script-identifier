@@ -28,7 +28,7 @@
 
 ## Demo
 
-[<video src="https://files.catbox.moe/vuw87e.mp4">](https://files.catbox.moe/vuw87e.mp4)
+https://user-images.githubusercontent.com/30050702/175384405-791d6585-95ac-449d-9e31-843bc2dbc69f.mp4
 
 
 ## Note
