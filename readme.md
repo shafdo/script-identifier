@@ -15,20 +15,20 @@
 
 ## What is automated?
 
-* Rather than enumerating the application and manually finding DOM XSS attack vectors (Ex: `<script>`, `onclick`). Can be tedious and time consuming.
+* Rather than enumerating the application and manually finding DOM XSS attack vectors (Ex: `<script>`, `onclick`) by going through the source code. Can be tedious and time consuming.
 
-* This program lets you automate this. Simply grab the URL you want to check and feed them into the program. Let the program takes cake of the rest.
+* This program lets you automate this. Simply grab the URLs you want to check and feed them into the program. Let the program takes cake of the rest.
 
 
 ## How the program works?
 
-1. Enumerate the application. Copy the URLs for the `Burp HTTP History`.
+1. Enumerate the application. Copy the URLs from `Burp HTTP History` tab.
 2. Feed in the URLs to the program.
 
 
 ## Demo
 
-* Will be upload in the future.
+[<video src="https://files.catbox.moe/vuw87e.mp4">](https://files.catbox.moe/vuw87e.mp4)
 
 
 ## Note
